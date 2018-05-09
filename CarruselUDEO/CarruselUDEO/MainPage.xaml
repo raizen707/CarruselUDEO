@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CarruselUDEO"
+             x:Class="CarruselUDEO.MainPage">
+
+    <!--<local:Contacts Title="Pagina contactenos" Icon="icon.png"></local:Contacts>-->
+    <ContentPage Title="Pagina 1" Icon="icon.png">
+        <Label Text="Aqui va el contedido de la pagina" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+    </ContentPage>
+    <ContentPage Title="Pagina 2" Icon="icon.png">
+        <Label Text="Aqui va el contedido de la pagina 2" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+    </ContentPage>
+
+</CarouselPage>
